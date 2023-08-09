@@ -1,0 +1,93 @@
+[
+   {
+      "name": "Fallen",
+      "picture": "https://image.femaledaily.com/dyn/500/images/prod-pics/product_1680170220_image_remo_800x800.png",
+      "buy": 300000,
+      "sell": 150000,
+      "stock": 8
+   },
+   {
+      "name": "Monoliths & Dimensions",
+      "picture": "https://images.soco.id/181-Pilihan-Parfum-Mewah-Terbaru-dari-Luxury-Fashion-Brand-2.jpg.jpeg",
+      "buy": 400000,
+      "sell": 200000,
+      "stock": 7
+   },
+   {
+      "name": "From Mars to Sirius",
+      "picture": "https://lh3.googleusercontent.com/RLeebW5Be6uLZyVtNNT9SJICFbrCf2S2VV4MKh2sbrGK1GlZcmoRPIBlHktnMdLjalSjmavuMLWw4lNoO_rwTloxSqMQ_xdAGe65mt9BVkwEKDwLxypkcS9FntDUUKA7OL7mN-SjPgLm3IC1RvSN30z256vx34pTKuCGa8yaIAyKMbb7tXXKx_Lw8sS7j2mbNb2POw2_",
+      "buy": 500000,
+      "sell": 250000,
+      "stock": 3
+   },
+   {
+      "name": "Images and Words",
+      "picture": "https://magees.ie/site/uploads/sys_products/ysl-libre-le-parfum-.webp",
+      "buy": 200000,
+      "sell": 100000,
+      "stock": 7
+   },
+   {
+      "name": "Sunbather",
+      "picture": "https://i5.walmartimages.com/asr/43e74d55-ea1e-41b5-a83b-416abe343f5f.931524e7d021308a8dd666dbcf8ab0cf.jpeg",
+      "buy": 500000,
+      "sell": 250000,
+      "stock": 2
+   },
+   {
+      "name": "Transilvanian Hunger",
+      "picture": "https://edenperfumes.co.uk/wp-content/uploads/2022/07/Gaultier-2-by-Jean-Paul-Gaultier-Vegan-alternative-500x500.jpg",
+      "buy": "320000",
+      "sell": "160000",
+      "stock": 6
+   },
+   {
+      "name": "Left Hand Path",
+      "picture": "https://mobius-luxury.eu/image/cache/catalog/5_chopard_parfum/95201-0403/95201-0403_00-500x500.jpg",
+      "buy": 250000,
+      "sell": 125000,
+      "stock": 8
+   },
+   {
+      "name": "Blessed Black Wings",
+      "picture": "https://images-static.nykaa.com/media/catalog/product/a/7/a7bd389LAFRE00000021_1.jpg?tr=w-500,pr-true",
+      "buy": 700000,
+      "sell": 350000,
+      "stock": 12
+   },
+   {
+      "name": "Dimension Hatröss",
+      "picture": "https://static.wixstatic.com/media/9c681f_245f0cb6b2ee4e98a4070f84962f1aeb~mv2.png/v1/fit/w_500,h_500,q_90/file.png",
+      "buy": 550000,
+      "sell": 275000,
+      "stock": 16
+   },
+   {
+      "name": "Covenant",
+      "picture": "https://brooklynperfume.com/wp-content/uploads/2020/03/30mlamberbrissilverBGcrop-500x500.jpg",
+      "buy": 150000,
+      "sell": 75000,
+      "stock": 7
+   },
+   {
+      "name": "Pyromania",
+      "picture": "https://www.sephora.com/productimages/sku/s2467371-main-zoom.jpg?imwidth=465",
+      "buy": 900000,
+      "sell": 450000,
+      "stock": 9
+   },
+   {
+      "name": "Meantime",
+      "picture": "https://c8n.tradeling.com/img/plain/pim/rs:auto:600::0/f:webp/up/6295fb09c35e4b102b4a2f2e/41878b46181563ad7536f492ddf9a414.jpg",
+      "buy": 330000,
+      "sell": 165000,
+      "stock": 3
+   },
+   {
+      "name": "From Enslavement to Obliteration",
+      "picture": "https://enchanteur.com.my/wp-content/uploads/2021/05/1911455-001-min.jpg",
+      "buy": 270000,
+      "sell": 135000,
+      "stock": 11
+   }
+]
